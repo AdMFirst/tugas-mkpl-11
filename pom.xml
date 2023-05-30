@@ -11,14 +11,6 @@
     <version>4.11</version> <!-- Or whatever JUnit you're using. -->
 	</dependency>
 </dependencies>
-
-<distributionManagement>
-    <repository>
-      <id>github</id>
-      <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/AdMFirst/tugas-mkpl-11</url>
-    </repository>
-  </distributionManagement>
   
   <properties>
      <maven.compiler.source>1.8</maven.compiler.source>
@@ -26,3 +18,4 @@
  </properties>
   
 </project>
+
